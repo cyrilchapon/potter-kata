@@ -1,5 +1,8 @@
+// Base price in €
 const bookPrice = 8
 
+// Index means "number of books"
+// It's % / 100
 const discounts: number[] = [
   0,
   0.05,
